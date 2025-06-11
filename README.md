@@ -1,0 +1,1 @@
+# Triggering CodeQL security scan
